@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge"></a>
-  <!-- TODO: replace XXXX.XXXXX with the real arXiv ID once posted -->
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
+  <a href="https://arxiv.org/abs/2605.20086"><img src="https://img.shields.io/badge/arXiv-2605.20086-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
   <a href="https://huggingface.co/datasets/ZIB-IOL/EvoTrace"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-EvoTrace-ffd21e?style=for-the-badge"></a>
 </p>
 
@@ -260,17 +259,16 @@ and licence details.
 If you use EvoReplay or the EvoTrace dataset in your research, please cite:
 
 ```bibtex
-@article{pelleriti2026evoreplay,
-  title  = {What Do Evolutionary Coding Agents Evolve?},
-  author = {Pelleriti, Nico and Nelaturu, Sree Harsha and Zhou, Zhanke
-            and Li, Zongze and Zimmer, Max and Han, Bo and Pokutta, Sebastian},
-  year   = {2026},
-  eprint = {XXXX.XXXXX},
-  archivePrefix = {arXiv},
+@misc{pelleriti2026evolutionarycodingagentsevolve,
+      title={What Do Evolutionary Coding Agents Evolve?}, 
+      author={Nico Pelleriti and Sree Harsha Nelaturu and Zhanke Zhou and Zongze Li and Max Zimmer and Bo Han and Sebastian Pokutta},
+      year={2026},
+      eprint={2605.20086},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE},
+      url={https://arxiv.org/abs/2605.20086}, 
 }
 ```
-
-<!-- TODO: replace eprint with the real arXiv ID and update venue/journal once known. -->
 
 ---
 
